@@ -1,0 +1,8 @@
+{
+  "name": "chant-lamb-rebuild",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs"
+  }
+}

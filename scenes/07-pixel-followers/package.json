@@ -1,0 +1,8 @@
+{
+  "name": "pixel-followers-rebuild",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs"
+  }
+}

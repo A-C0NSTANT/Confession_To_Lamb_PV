@@ -1,0 +1,8 @@
+{
+  "name": "intro-lamb-rebuild",
+  "private": true,
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "type": "module"
+}

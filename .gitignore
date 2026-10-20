@@ -1,0 +1,15 @@
+# Local history, references, caches and old outputs.
+/archive/
+
+# Installed dependencies and new renders.
+node_modules/
+BL_proxy/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+/outputs/
+*.log
+.DS_Store
+Thumbs.db

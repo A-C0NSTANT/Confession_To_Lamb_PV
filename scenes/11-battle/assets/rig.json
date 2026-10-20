@@ -1,0 +1,25 @@
+{
+  "说明": "仅管理拆层素材。关节支点与动画参数分别读取 animation-parts 中的对应部位文件；素材画布为 1024×1536。",
+  "float": {
+    "files": {
+      "torso": "float-torso.png",
+      "cover": "float-collar-cape.png",
+      "leftArm": "float-left-arm.png",
+      "rightArm": "float-right-arm.png",
+      "neckPatch": "float-neck-underpaint.png",
+      "shoulderPatch": "float-shoulder-underpaint.png"
+    }
+  },
+  "laugh": {
+    "files": {
+      "torso": "laugh-torso.png",
+      "cover": "laugh-collar-cape.png",
+      "leftArm": "laugh-left-arm.png",
+      "rightArm": "laugh-right-arm.png",
+      "head": "laugh-head.png",
+      "woolPatch": "laugh-hidden-wool.png",
+      "neckPatch": "laugh-neck-underpaint.png",
+      "shoulderPatch": "laugh-shoulder-underpaint.png"
+    }
+  }
+}

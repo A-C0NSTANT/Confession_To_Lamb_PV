@@ -1,0 +1,19 @@
+{
+  "laugh": {
+    "scaleMultiplier": 1.3414634146341464,
+    "offsetX": 0.0,
+    "offsetY": 185.29999999999995,
+    "cropBottom": 1085.0
+  },
+  "float": {
+    "scaleMultiplier": 1.2637362637362637,
+    "offsetX": 0.0,
+    "offsetY": 97.45000000000005,
+    "cropBottom": 1248.0,
+    "headScale": 0.85,
+    "headPivot": [
+      512.0,
+      930.0
+    ]
+  }
+}

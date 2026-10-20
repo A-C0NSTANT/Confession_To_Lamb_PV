@@ -1,0 +1,64 @@
+{
+  "width": 1024,
+  "height": 1536,
+  "bodyPivot": [
+    515.0,
+    925.0
+  ],
+  "headPivot": [
+    515.0,
+    855.0
+  ],
+  "placement": {
+    "scale": 0.8405959822750168,
+    "x": 963.1405331255996,
+    "y": 8.005016896857
+  },
+  "files": {
+    "head": "lamb-head-clean.png",
+    "body": "lamb-body.png",
+    "hands": "lamb-hands.png"
+  },
+  "face": {
+    "mouthScale": 1.2,
+    "resolution": 3,
+    "eyesClosed": {
+      "file": "eyes-closed.png",
+      "resolution": 1,
+      "bounds": [
+        0,
+        0,
+        1024,
+        1536
+      ]
+    },
+    "eyesSmile": {
+      "file": "eyes-half.png",
+      "resolution": 1,
+      "bounds": [
+        0,
+        0,
+        1024,
+        1536
+      ]
+    },
+    "mouthClosed": {
+      "file": "mouth-closed.png",
+      "bounds": [
+        450,
+        745,
+        130,
+        95
+      ]
+    },
+    "mouthOpen": {
+      "file": "mouth-open.png",
+      "bounds": [
+        420,
+        740,
+        190,
+        125
+      ]
+    }
+  }
+}

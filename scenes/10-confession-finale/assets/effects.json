@@ -1,0 +1,10 @@
+{
+  "actorGain": 0.4,
+  "actorLift": 0.0,
+  "rgbScale": 1.0,
+  "tearScale": 1.0,
+  "seed": 37,
+  "holdFrames": 2,
+  "trailTaps": 5,
+  "trailStrength": 0.12
+}

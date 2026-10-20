@@ -1,0 +1,8 @@
+{
+  "name": "confession-rpg-rebuild",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "agent-pv-reconstruction",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {"node": ">=20"},
+  "scripts": {
+    "scenes": "node render.mjs --list",
+    "render": "node render.mjs"
+  },
+  "dependencies": {"playwright": "1.62.1"}
+}
